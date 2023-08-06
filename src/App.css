@@ -1,38 +1,73 @@
 .App {
-  text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App-ui {
+    display: flex;
+}
+.Sidebar {
+    background-color: #388D70;
+    width: 10%;
+    height: 100vh;
+    justify-content: center;
+    padding: 20px;
+}
+.Side i {
+    background-color: #fff;
+    color: #737271;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.windows {
+    color: #edeff2;
+}
+.sideContent {
+    display: flex;
+    color: #EAFAF8;
+    justify-content: center;
+    gap: 20px;
+    align-items: baseline;   
+    
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#dashtext {
+    background-color:#F4F5F9;
+    color: #676563;
+
+}
+#dashtext i {
+    color: #5C5E61;
+}
+#onlyicon {
+    justify-content: center;
+    align-items: center;
+    color: #5C5E61;
+    background-color:#F4F5F9;
+    border-radius: 27px;
+    padding: 7px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
 }
 
-.App-link {
-  color: #61dafb;
+.Navbar {
+    display: flex;
+    margin-top: 0px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 90%;
+
+}
+.User i {
+    color:#faac05;
+}
+.compliment {
+    color: #5C5E61;
+}
+#searchIcon {
+    color: #bdbaa8;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.searchbar {
+    display: flex;
 }
