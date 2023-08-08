@@ -237,25 +237,25 @@ function Homepage() {
               <tr className="table-data">
                 <td>1.</td>
                 <td>Gathoni Wanjira</td>
-                <td>+254711312390</td>
+                <td>+254700111222</td>
                 <td>$6700</td>
               </tr>
               <tr className="table-data">
                 <td>2.</td>
                 <td>Gathoni Wanjira</td>
-                <td>+254711312390</td>
+                <td>+254700111222</td>
                 <td>$8700</td>
               </tr>
               <tr className="table-data">
                 <td>3.</td>
                 <td>Gathoni Wanjira</td>
-                <td>+254711312390</td>
+                <td>+254700111222</td>
                 <td>$700</td>
               </tr>
               <tr className="table-data">
                 <td>4.</td>
                 <td>Gathoni Wanjira</td>
-                <td>+254711312390</td>
+                <td>+254700111222</td>
                 <td>$6200</td>
               </tr>
             </table>
@@ -274,7 +274,7 @@ function Homepage() {
               <tr className="table-data2">
                 <td>#11</td>
                 <td>Gathoni Wanjira</td>
-                <td>+254711312390</td>
+                <td>+254700111222</td>
                 <td>08/08/2023</td>
                 <td>$9000</td>
                 <td>$6700</td>
@@ -283,7 +283,7 @@ function Homepage() {
               <tr className="table-data">
                 <td>#12</td>
                 <td>Gathoni Wanjira</td>
-                <td>+254711312390</td>
+                <td>+254700111222</td>
                 <td>08/08/2023</td>
                 <td>$9000</td>
                 <td>$6700</td>
@@ -292,7 +292,7 @@ function Homepage() {
               <tr className="table-data">
                 <td>#13</td>
                 <td>Gathoni Wanjira</td>
-                <td>+254711312390</td>
+                <td>+254700111222</td>
                 <td>08/08/2023</td>
                 <td>$9000</td>
                 <td>$6700</td>
@@ -301,7 +301,7 @@ function Homepage() {
               <tr className="table-data">
                 <td>#14</td>
                 <td>Gathoni Wanjira</td>
-                <td>+254711312390</td>
+                <td>+254700111222</td>
                 <td>08/08/2023</td>
                 <td>$9000</td>
                 <td>$6700</td>
@@ -310,7 +310,7 @@ function Homepage() {
               <tr className="table-data">
                 <td>#15</td>
                 <td>Gathoni Wanjira</td>
-                <td>+254711312390</td>
+                <td>+254700111222</td>
                 <td>08/08/2023</td>
                 <td>$9000</td>
                 <td>$6700</td>

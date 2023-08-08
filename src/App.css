@@ -69,22 +69,29 @@
 }
 
 .Navbar {
-  padding: 8px 32px;
+  padding: 4px 32px;
   display: flex;
   flex-direction: row;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   align-items: baseline;
   background-color: #ffffff;
 }
+
 .Navbar > div {
   flex-grow: 1;
 }
 .welcome {
   display: flex;
   flex-direction: column;
+  margin-top: 0px;
 }
 .welcome p {
   margin: 0px;
+}
+.User {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
 }
 
 .User i {
@@ -92,6 +99,8 @@
 }
 .compliment {
   color: #5c5e61;
+  margin-top: 0px;
+  padding: 0px;
 }
 #searchIcon {
   padding: 12px;
@@ -118,8 +127,10 @@
 .top-searchbar {
   display: flex;
   flex-direction: row;
+  vertical-align: baseline;
   align-items: center;
   height: 100%;
+  padding: 26px 0px;
 }
 .nav-end {
   display: flex;
@@ -246,7 +257,6 @@
   padding: 12px;
   width: 50%;
   border-radius: 12px;
-  height: 50%;
 }
 
 .monthly-overview {
@@ -307,6 +317,7 @@
 }
 
 .low-deliverytext {
+  margin-top: 15px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -322,16 +333,20 @@
   padding: 16px;
 }
 .delivery-minitext {
-  margin: 0px;
-  padding: 0px;
+  margin: 20px 0px;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+.delivery-minitext p {
+  margin: 0px;
+  padding-left: 10px;
 }
 .handling {
   display: flex;
   flex-direction: row;
   align-items: baseline;
+  margin-top: 10px;
 }
 .handling i {
   display: flex;
@@ -344,9 +359,14 @@
   padding: 16px;
 }
 .handlinglower-text {
+  margin: 20px 0px;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+.handlinglower-text p {
+  margin: 0px;
+  padding-left: 10px;
 }
 .handling-text {
   font-weight: 600;
@@ -365,16 +385,29 @@
   width: 25%;
   height: 50%;
 }
+.allratestext1 {
+  padding: 24px 0px;
+}
+.allratestext1 p {
+  margin: 0px;
+}
 
+.allratestext2 p {
+  margin: 0px;
+}
 .rates-1 {
   background-color: #ffffff;
   border-radius: 10px;
   height: 50%;
+  margin: 24px 0px;
+  padding: 6px 0px;
 }
 .rates-2 {
   background-color: #ffffff;
   border-radius: 10px;
   height: 50%;
+  margin: 20px 0px;
+  padding: 20px 0px;
 }
 #icon1 {
   background-color: #388d70;
