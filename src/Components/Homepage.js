@@ -151,7 +151,7 @@ function Homepage() {
           </div>
         </div>
 
-        {/* Overview Section */}
+        {/* OVERVIEW SECTION */}
         <div className="Overview">
           {/* Monthly overview */}
           <div className="all-overview">
